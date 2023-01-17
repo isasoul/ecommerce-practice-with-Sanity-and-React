@@ -1,4 +1,5 @@
 import React from 'react';
+import {client} from '../lib/client';
 import {product, FooterBanner, HeroBanner} from  '../components';
 
 
