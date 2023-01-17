@@ -16,7 +16,7 @@ const HeroBanner = () => {
             </Link>
             <div className='desc'>
                 <h5>Description</h5>
-                <p>DESCRIPTION  </p>
+                <p>DESCRIPTION</p>
             </div>
         </div>
     </div>
