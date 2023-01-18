@@ -1,10 +1,9 @@
 import React from 'react';
-import {client} from '../lib/client';
 import {product, FooterBanner, HeroBanner} from  '../components';
 
 
-const home = () => {
-  return (
+const home = () => ( 
+  
   <div>
     <HeroBanner/>
     <div className='products-heading'>
@@ -24,6 +23,6 @@ const home = () => {
     </div>
    
   )
-}
+
 
 export default home;
